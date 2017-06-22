@@ -1,0 +1,31 @@
+{
+  "name": "glitch-twitterbot-webhooks",
+  "version": "0.0.1",
+  "description": "Beep beep tweet!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "twit": "^2.2.9",
+    "body-parser": "^1.17.2",
+    "express-handlebars": "^3.0.0"
+  },
+  "engines": {
+    "node": "8.1.2"
+  },
+  "repository": {
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "gomix",
+    "hyperdev",
+    "twitter",
+    "twitterbot",
+    "bot",
+    "webhooks"
+  ]
+}
